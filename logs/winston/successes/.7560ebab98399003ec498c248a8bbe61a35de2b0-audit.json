@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\nextjs\\HealthCare-Server\\logs\\winston\\successes\\.7560ebab98399003ec498c248a8bbe61a35de2b0-audit.json",
+    "files": [
+        {
+            "date": 1712052578676,
+            "name": "D:\\nextjs\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-02-04-16-success.log",
+            "hash": "40a5ca75e4ef38494a430862c6a919eb38208c5c502e83a438b8e84bd9d7a0e9"
+        }
+    ],
+    "hashType": "sha256"
+}
