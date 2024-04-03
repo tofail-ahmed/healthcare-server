@@ -1,0 +1,14 @@
+Wed Apr 03 2024 22:29:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Wed Apr 03 2024 22:30:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
