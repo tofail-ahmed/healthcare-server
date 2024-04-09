@@ -1,0 +1,5 @@
+Wed Apr 10 2024 0:2:45 } [PH] error: Invalid Signature c5cb54b4b2bf57485ef1080cace596b8cf4b3224. String to sign - 'timestamp=1712685762'.
+Wed Apr 10 2024 0:6:14 } [PH] error: Invalid Signature 030f4b052d50cccfa54a09da821cea7edf482eda. String to sign - 'timestamp=1712685971'.
+Wed Apr 10 2024 0:7:27 } [PH] error: Invalid Signature f3e7484afa917fc4f9a87ac7642245125ac7bce1. String to sign - 'timestamp=1712686044'.
+Wed Apr 10 2024 0:11:45 } [PH] error: Invalid Signature 2d7c776d277e4fb83de357cb8015461f72a87b70. String to sign - 'timestamp=1712686302'.
+Wed Apr 10 2024 0:29:18 } [PH] error: Invalid Signature 3452ffab6bae446453534e2ae55b4cfbb019ee9d. String to sign - 'timestamp=1712687355'.
